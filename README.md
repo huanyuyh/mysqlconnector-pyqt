@@ -1,0 +1,1 @@
+一个python链接mysql数据库查看数据的PYQT应用
